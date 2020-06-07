@@ -4,7 +4,7 @@
 # Author: tjuyy
 #=================================================
 # MiRouter-4A-ssr.yml
-name: MiRouter 4A Gigabit - Full
+name: MiRouter 4A Gigabit - ssr
 
 on:
   release:
