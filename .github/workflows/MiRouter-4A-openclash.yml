@@ -4,7 +4,7 @@
 # Author: tjuyy
 #=================================================
 # MiRouter-4A-openclash.yml
-name: MiRouter 4A Gigabit - Full
+name: MiRouter 4A Gigabit - openclash
 
 on:
   release:
